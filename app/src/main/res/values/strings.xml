@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Oompa Loompas Crew</string>
+    <string name="workers_list_activity_title">Oompa Loompas Crew</string>
+    <string name="error">Oops! There was an error, please try again.</string>
+    <string name="empty">No results.</string>
+    <string name="filter_f">Filter F</string>
+    <string name="filter_m">Filter M</string>
+    <string name="filter_by_profession">Filter by profession</string>
+    <string name="all_workers">All workers</string>
+</resources>
